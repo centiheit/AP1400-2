@@ -1,0 +1,18 @@
+[submodule "AP1400-2-HW1"]
+	path = AP1400-2-HW1
+	url = ./AP1400-2-HW1
+[submodule "AP1400-2-HW2"]
+	path = AP1400-2-HW2
+	url = ./AP1400-2-HW2
+[submodule "AP1400-2-HW3"]
+	path = AP1400-2-HW3
+	url = ./AP1400-2-HW3
+[submodule "AP1400-2-HW4"]
+	path = AP1400-2-HW4
+	url = ./AP1400-2-HW4
+[submodule "AP1400-2-HW5"]
+	path = AP1400-2-HW5
+	url = ./AP1400-2-HW5
+[submodule "AP1400-2-HW6"]
+	path = AP1400-2-HW6
+	url = ./AP1400-2-HW6
